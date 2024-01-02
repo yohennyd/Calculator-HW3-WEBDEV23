@@ -5,3 +5,14 @@ It allows users to perform the basic arithmetic operations such as addition, sub
 and division.
 
 Feautures:
+Addition
+Subtraction
+Multiplication
+Division
+Trigonometry
+Factorial
+Clear button
+
+Code Structure:
+'index.html': Main file which contains the styling feature
+'index.js': An implemented JavaScript file in 'index.html' containing the functions
